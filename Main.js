@@ -1,0 +1,1 @@
+var clientWidth = function () {  return Math.max(window.innerWidth, document.documentElement.clientWidth);};var clientHeight = function () {  return Math.max(window.innerHeight, document.documentElement.clientHeight);};

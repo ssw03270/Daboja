@@ -1,0 +1,59 @@
+body{
+    max-width: 400px;
+    max-height: 700px;
+    margin: 20px auto 0;
+    border-style: solid;
+    border-color:  #202020;
+    box-sizing: border-box;
+}
+.top{
+    background-color: #3c91ff;
+    height: 85px;
+    text-align: center;
+    padding: 0.1px;
+}
+h1{
+    color: #ffffff;
+    font-family: 'Charm', cursive;
+    zoom: 140%;
+    margin: 0;
+    margin-top: 5px;
+}
+.mid{
+    width: 400px;
+    height: 563.5px;
+    overflow-y: auto;
+}
+.like_btn{
+    margin: 15px;
+}
+.poster{
+    display: block;
+    margin: 0px auto;
+    margin-top: -50px;
+}
+hr{
+    width: 80%;
+}
+.contant{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+iframe{
+    display: block;
+    margin: 0px auto;
+    
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
+.bot{
+    background-color: #3c91ff;
+    height: 50px;
+}
+.icon_btn{
+    width: 7%;
+    padding: 3%;
+    margin-left: 5.5%;
+    margin-right: 5.43%;
+}

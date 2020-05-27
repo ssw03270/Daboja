@@ -1,0 +1,37 @@
+body{
+    max-width: 400px;
+    max-height: 700px;
+    margin: 20px auto 0;
+    border-style: solid;
+    border-color:  #202020;
+    box-sizing: border-box;
+}
+.top{
+    background-color: #3c91ff;
+    height: 85px;
+    text-align: center;
+    padding: 0.1px;
+    margin-bottom: 20px;
+}
+h1{
+    color: #ffffff;
+    font-family: 'Charm', cursive;
+    zoom: 140%;
+    margin: 0;
+    margin-top: 5px;
+}
+.mid{
+    width: 400px;
+    height: 543.5px;
+    overflow-y: auto;
+}
+.bot{
+    background-color: #3c91ff;
+    height: 50px;
+}
+.icon_btn{
+    width: 7%;
+    padding: 3%;
+    margin-left: 5.5%;
+    margin-right: 5.43%;
+}
